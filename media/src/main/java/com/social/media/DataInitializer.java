@@ -64,8 +64,6 @@ public class DataInitializer
             socialUserRepository.save(user2);
             socialUserRepository.save(user3);
 
-
-
             Post post1 = new Post();
             Post post2 = new Post();
             Post post3 = new Post();
@@ -89,6 +87,10 @@ public class DataInitializer
             socialProfileRepository.save(profile1);
             socialProfileRepository.save(profile2);
             socialProfileRepository.save(profile3);
+
+            System.out.println("FETCHING SOCIAL USER");
+            socialUserRepository.findById(1L);
+
         };
     }
 }
