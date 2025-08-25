@@ -1,4 +1,4 @@
-# SpringBootSocialMedia / Spring Boot JPA Relations Demo
+# SpringBootSocialMedia / JPA Relations Demo
 
 This is a small project I built while learning Spring Boot and JPA.  
 The goal is to create multiple entities, connect them with different relationships, and practice how they work in a real application.
