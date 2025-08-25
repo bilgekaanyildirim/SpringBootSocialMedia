@@ -1,7 +1,4 @@
-# SpringBootSocialMedia
-A simple Spring Boot project to practice JPA with multiple entities and relationships (One-to-One, One-to-Many, Many-to-Many). Focused on understanding entity mapping, repositories, and relational database design.
-
-# Spring Boot JPA Relations Demo
+# SpringBootSocialMedia / Spring Boot JPA Relations Demo
 
 This is a small project I built while learning Spring Boot and JPA.  
 The goal is to create multiple entities, connect them with different relationships, and practice how they work in a real application.
